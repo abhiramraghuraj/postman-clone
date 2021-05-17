@@ -780,7 +780,6 @@ body{
         text-align: center;
     }
     .text h2{
-        font-size: 47px;
         left: 0;
         display: grid;
         width: 100%;
@@ -842,6 +841,9 @@ body{
     }
     .member{
         display: none;
+    }
+    .text h2{
+        font-size: 47px;
     }
 }
 @media(min-width:1200px){
